@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2656
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26611#Enthusiasm-and-Other-Poems
 gutenberg_issued: '2008-09-14'
 gutenberg_type: Text
 identifiers:
